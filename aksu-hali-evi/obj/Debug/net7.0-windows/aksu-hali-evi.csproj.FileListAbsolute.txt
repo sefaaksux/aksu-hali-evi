@@ -1,0 +1,2 @@
+C:\Users\sefaa\OneDrive\Masaüstü\aksu-hali-evi\aksu-hali-evi\obj\Debug\net7.0-windows\aksu-hali-evi.csproj.AssemblyReference.cache
+C:\Users\sefaa\OneDrive\Masaüstü\aksu-hali-evi\aksu-hali-evi\obj\Debug\net7.0-windows\aksu-hali-evi.csproj.GenerateResource.cache
